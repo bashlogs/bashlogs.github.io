@@ -1,0 +1,51 @@
+I"	<h1 id="about-me">About Me</h1>
+
+<!-- <img src="https:/xyz.com/xyz.jpg" class="floatpic" width="360" height="480"> -->
+
+<p>Here is <strong>Mayur Khadde</strong>. Create of <a href="https://github.com/vitunix"><strong>Vitunix OS</strong></a>.</p>
+
+<p>I am a final year student in the Department of Computer Science Engineering at the <strong>Vishwakarma Institute of Technology, Pune</strong>. Linux Enthusiastic and Software developer who is passionate about making open-source more accessible and creating technology to elevate people. Also Developing my skills in architecture and design of scalable systems, distributed systems and databases. I am always open to collaborating on projects and innovative/disruptive ideas.</p>
+
+<p>If you are interested in any aspect of me, I am always open to discussions and collaborations. Feel free to reach out to me <a href="mailto:mayurkhadde49@gmail.com">@Email</a></p>
+
+<hr />
+<h2 id="education">Education</h2>
+
+<ul>
+  <li>
+    <p><strong>Vishwakarma Institute of Technology, Pune</strong> (2022 - 2025)<br />
+Bachelors of Technology, Department of Computer Science Engineering<br /></p>
+  </li>
+  <li>
+    <p><strong>Cusrow Wadia Institute of Technology, Pune</strong> (2019 - 2022)<br />
+Diploma in Computer Science<br /></p>
+  </li>
+</ul>
+
+<hr />
+
+<h2 id="area-of-interest">Area of Interest</h2>
+
+<ul>
+  <li>Linux System Programming</li>
+  <li>Web Development</li>
+  <li>Open Source Contribution</li>
+  <li>Kubernetes and DevOps</li>
+</ul>
+
+<p>Currently, working on financial web application to manage persons expenses and providing knowledge about investment and savings. Also exploring GSOC Org. to contribute in open source projects.</p>
+
+<hr />
+
+<h2 id="tech-stack">Tech-Stack</h2>
+
+<ul>
+  <li><strong>Languages:</strong> C, C++, Python, Java, JavaScript, HTML, CSS</li>
+  <li><strong>Linux:</strong> Shell Scripting, System Programming, Arch Linux</li>
+  <li><strong>Frameworks:</strong> React, Node.js, Express.js, Flask</li>
+  <li><strong>Databases:</strong> MySQL, MongoDB, PostgreSQL, ORM Frameworks</li>
+  <li><strong>DevOps:</strong>: Kubernetes, Docker, Podman, Helm, GitLabs, Github</li>
+  <li><strong>Tools:</strong> Git, Nvim, VS Code, IntelliJ IDEA</li>
+  <li><strong>Other Skills:</strong> Computer Networks, Operating System, Algorithms Design, OOPS</li>
+</ul>
+:ET

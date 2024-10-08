@@ -1,0 +1,61 @@
+I"@<h2 id="projects">Projects</h2>
+
+<h4 id="vitunix-os-jan-2023---jul-2023">Vitunix OS (Jan 2023 - Jul 2023)</h4>
+
+<ul>
+  <li>Vitunix OS is a lightweight linux distribution based on arch linux. Resulting product only take 400MB of Ram after bootup.</li>
+  <li>Aim of the project was to give a lightweight and configurable alternative to our daily use in linux.</li>
+  <li>OS Comes with multiple desktop environments like BSPWM, OpenBox, I3 etc. It also has calamares for easy installation in your system.</li>
+  <li>OS has garnered over 4,000 views, with 1,000+ downloads on Foss Torrents and 500+ downloads on Source Forge, reflecting
+significant interest and engagement from the Linux community.</li>
+  <li>Website - <a href="https://vitunix.github.io/">https://vitunix.github.io/</a></li>
+  <li>Conference Paper - <a href="https://link.springer.com/chapter/10.1007/978-981-99-9811-1_15">Link</a></li>
+</ul>
+
+<h4 id="feedback-management-system-aug-2022---oct-2022">Feedback Management System (Aug 2022 - Oct 2022)</h4>
+
+<ul>
+  <li>Web application to enhance the student feedback process in colleges.</li>
+  <li>This application streamline the feedback management process for an institution, efficiently handling over 5,000 feedback submissions per season.</li>
+  <li>Deployed the system on an on-premise server utilizing a LAMP stack, with backend operations implemented in PHP and
+Python, and frontend developed using Bootstrap and JavaScript.</li>
+  <li><a href="https://github.com/JUSTAFOLK/FEEDBACK-SYS">Github</a></li>
+</ul>
+
+<h4 id="nivesh---financial-literacy-jun-2024---present">Nivesh - Financial Literacy (Jun 2024 - Present)</h4>
+
+<ul>
+  <li>A web application to track and manage personal budgets and expenses.</li>
+  <li>Managed a financial literacy web application that provides users with comprehensive insights into budgeting, saving,
+investing, and future planning, empowering them to make informed financial decisions.</li>
+  <li>Developed and integrated paper trading simulations within the financial literacy web application, leading to a 40% increase
+in user engagement through interactive learning experiences that empowered users with hands-on investment practices.</li>
+  <li><a href="https://github.com/bashlogs/Financial-Literacy">Github</a></li>
+</ul>
+
+<h4 id="pharmacy-inventory-management-system-may-2023---aug-2023">Pharmacy Inventory Management System (May 2023 - Aug 2023)</h4>
+
+<ul>
+  <li>Developed a Java-based scratch project utilizing Swing and AWT components on the Gradle.</li>
+  <li>Facilitated end-to-end inventory control for pharmaceutical products and medical devices, acting as a critical intermediary between pharmaceutical manufacturers and pharmacies.</li>
+  <li>Implemented real-time stock tracking mechanisms and integrated sophisticated billing algorithms to ensure precise inventory oversight and financial accuracy.</li>
+  <li><a href="https://github.com/bashlogs/Pharmacy-Inventory-Management-System">Github</a></li>
+</ul>
+
+<h4 id="ai-fusion---creation-with-pixel-word-and-sound-sep-2023---jun-2023">AI Fusion - Creation with pixel, word and sound (Sep 2023 - Jun 2023)</h4>
+
+<ul>
+  <li>AI-driven platform for comprehensive multimedia content generation, leveraging advanced machine learning and neural network technologies.</li>
+  <li>Integrated cutting-edge AI tools to enable seamless creation of code, music, images, videos, and text within a unified interface.</li>
+  <li>Implemented a robust user authentication system and secure transaction framework to enhance user experience and data protection.</li>
+  <li><a href="https://github.com/bashlogs/EDI-Project">Github</a></li>
+</ul>
+
+<h4 id="steganography-suite-mar-2024---jun-2024">Steganography Suite (Mar 2024 - Jun 2024)</h4>
+
+<ul>
+  <li>Developed a versatile steganography tool capable of concealing text messages within various media formats, including images, text files, audio, and video.</li>
+  <li>Implemented encryption algorithms to safeguard embedded data, enabling users to detect unauthorized use or reproduction of their files across online platforms.</li>
+  <li><a href="https://github.com/bashlogs/Steganography">Github</a></li>
+</ul>
+:ET
