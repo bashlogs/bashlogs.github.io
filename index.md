@@ -18,7 +18,7 @@ If you are interested in any aspect of me, I am always open to discussions and c
 
 - **Vishwakarma Institute of Technology, Pune** (2022 - 2025)<br>
   Bachelors of Technology, Department of Computer Science Engineering<br>
-  CGPA - 8.74
+  CGPA - 8.81
 - **Cusrow Wadia Institute of Technology, Pune** (2019 - 2022)<br>
   Diploma in Computer Science<br>
   Percentage - 94.65
