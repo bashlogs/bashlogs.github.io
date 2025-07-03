@@ -17,13 +17,13 @@ If you are interested in any aspect of me, I am always open to discussions and c
 ## Experience
 
 ### Associate Software Engineer Intern
-**IDeaS Revenue Solutions | Baner, Pune (Jan 2025 - June 2025)** <br>
-- Worked on on-prem/aws server-to-server communication to design custom metrics for monitoring and observability.<br>
-- Automated the storage scaling process of database servers using lambda function triggered by threshold-based alerts.<br>
-- Improved downtime handling functionality to support 24x7 operations and designed a system to mute alerts from ECS clusters, EC2 instances, and on-prem servers concurrently.<br>
-- Designed a website to showcase new Datadog courses, helping new employees learn about monitoring and alerting.<br>
-- Performed index stats analysis on database servers to help developers optimize queries and enhance performance.<br>
-- Skills Acquired - AWS, Boto3, On-prem server, Shell Scripting, CI/CD, Python, Bootstrap
+IDeaS Revenue Solutions, Baner, Pune (Jan 2025 - June 2025) <br>
+  - Worked on on-prem/aws server-to-server communication to design custom metrics for monitoring and observability.<br>
+  - Automated the storage scaling process of database servers using lambda function triggered by threshold-based alerts.<br>
+  - Improved downtime handling functionality to support 24x7 operations and designed a system to mute alerts from ECS clusters, EC2 instances, and on-prem servers concurrently.<br>
+  - Designed a website to showcase new Datadog courses, helping new employees learn about monitoring and alerting.<br>
+  - Performed index stats analysis on database servers to help developers optimize queries and enhance performance.<br>
+  - Skills Acquired - AWS, Boto3, On-prem server, Shell Scripting, CI/CD, Python, Bootstrap
 
 ---
 
@@ -40,12 +40,16 @@ If you are interested in any aspect of me, I am always open to discussions and c
 
 ## Area of Interest
 
-- Linux System Programming
+- Software Development
+- Backend Development
+- Cloud Computing
+- Distributed Systems
 - Web Development
-- Open Source Contribution
 - Kubernetes and DevOps
 
-Currently, working on financial web application to manage persons expenses and providing knowledge about investment and savings. Also exploring GSOC Org. to contribute in open source projects.
+Currentl, I am working on a project to build a **Distributed File System** using **Kubernetes** and **Docker**. The goal is to create a scalable and fault-tolerant file storage solution that can handle large volumes of data efficiently. This project involves designing the architecture, implementing the necessary components, and ensuring seamless integration with Kubernetes for orchestration.
+
+Project Link: [PaaS Project](https://github.com/bashlogs/PaaS-Project)
 
 ---
 
