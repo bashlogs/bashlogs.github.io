@@ -56,9 +56,9 @@ Project Link: [PaaS Project](https://github.com/bashlogs/PaaS-Project)
 ## Tech-Stack
 
 - **Languages:** C, C++, Python, Java, JavaScript, HTML, CSS
-- **Linux:** Shell Scripting, System Programming, Arch Linux
 - **Frameworks:** React, Node.js, Express.js, Flask
 - **Databases:** MySQL, MongoDB, PostgreSQL, ORM Frameworks
+- **Linux:** Shell Scripting, System Programming, Arch Linux
 - **DevOps:**: Kubernetes, Docker, Podman, Helm, GitLabs, Github
 - **Tools:** Git, Nvim, VS Code, IntelliJ IDEA
 - **Other Skills:** Computer Networks, Operating System, Algorithms Design, OOPS
